@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "READY OR NOT",
+  "base_artist": "JP THE WAVY",
+  "createdAt": "2026-02-11T07:44:43.064529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "Fugees feat. Ms. Lauryn Hill, Wyclef Jean & Pras",
+      "has_synced": true,
+      "path": "select/01_Ready_or_Not_Fugees_feat._Ms._Lauryn_Hill,_Wyclef_Jean_&_Pras.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready Or Not",
+      "artist": "Fugees (Refugee Camp)",
+      "has_synced": true,
+      "path": "select/02_Ready_Or_Not_Fugees_(Refugee_Camp).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ready Or Not - Clark Kent/Django Remix",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/03_Ready_Or_Not_-_Clark_Kent_Django_Remix_Fugees.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ready or Not [Clark Kent\u0000Django Remix]",
+      "artist": "The Fugees",
+      "has_synced": false,
+      "path": "select/04_Ready_or_Not_[Clark_Kent\u0000Django_Remix]_The_Fugees.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ready Or Not - Salaam's Ready For The Show Remix",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/05_Ready_Or_Not_-_Salaam's_Ready_For_The_Show_Remix_Fugees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ready or Not [Salaam's Ready for the Show Remix]",
+      "artist": "The Fugees",
+      "has_synced": false,
+      "path": "select/06_Ready_or_Not_[Salaam's_Ready_for_the_Show_Remix]_The_Fugees.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/07_Ready_or_Not_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready Or Not",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/08_Ready_Or_Not_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ready Or Not",
+      "artist": "Air Traffic Controller",
+      "has_synced": true,
+      "path": "select/09_Ready_Or_Not_Air_Traffic_Controller.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/10_Ready_or_Not_Europe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready Or Not",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/11_Ready_Or_Not_Europe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready Or Not (Clark Kent/Django Remix)",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/12_Ready_Or_Not_(Clark_Kent_Django_Remix)_Fugees.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ready Or Not (Salaam's Ready For The Show Remix)",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/13_Ready_Or_Not_(Salaam's_Ready_For_The_Show_Remix)_Fugees.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/14_Ready_or_Not_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "Horse Head",
+      "has_synced": true,
+      "path": "select/15_Ready_or_Not_Horse_Head.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ready or not",
+      "artist": "Paul Hardcastle",
+      "has_synced": false,
+      "path": "select/16_Ready_or_not_Paul_Hardcastle.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "The Fray",
+      "has_synced": false,
+      "path": "select/17_Ready_or_Not_The_Fray.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ready or Not",
+      "artist": "The Fray",
+      "has_synced": false,
+      "path": "select/18_Ready_or_Not_The_Fray.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "READY OR NOT (feat. LEX)",
+      "artist": "JP THE WAVY",
+      "has_synced": false,
+      "path": "select/pl_01_READY_OR_NOT_(feat._LEX)_JP_THE_WAVY.txt"
+    }
+  ]
+}
